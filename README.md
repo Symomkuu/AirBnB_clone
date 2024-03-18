@@ -1,4 +1,4 @@
-AirBnB Clone Project
+EADME.mdlone Project
 
 This project is an implementation of a simplified version of the AirBnB platform, focusing on the backend functionality. It includes models for managing users, properties, bookings, and more, along with a command-line interface for interacting with these models.
 Command Interpreter
